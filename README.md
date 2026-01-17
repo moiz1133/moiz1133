@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**moiz1133/moiz1133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, I'm Moiz 👋
 
-Here are some ideas to get you started:
+Endlessly curious and forever tinkering, with computers as my favorite playground.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My tech stack
+
+### 🧠 Languages / Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,ejs,express,angular,bootstrap,css
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,github,gitlab,vscode,git,npmp>
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql"✅ Test Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,selenium"💻 Operating Systems
+<p>
+  https://skillicons.dev/icons?i=linux,apple
+</p>
