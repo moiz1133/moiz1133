@@ -5,22 +5,29 @@ Endlessly curious and forever tinkering, with computers as my favorite playgroun
 
 ---
 
-## My tech stack
 
 ### Languages / Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,ejs,express,angular,bootstrap,css
+  <img src="https://skillicons.dev/icons?i=ruby,js,nodejs,react,rails" />
 </p>
+
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,github,gitlab,vscode,git,npmp>
+  <img src="https://skillicons.dev/icons?i=aws,azure,github,gitlab,vscode,git,npmp"/>
+</p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql"✅ Test Automation
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql"/>
+</p>
+
+### Test Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=jest,selenium"💻 Operating Systems
+  <img src="https://skillicons.dev/icons?i=jest,selenium"/>
+</p>
+
+### Operating Systems
 <p>
-  https://skillicons.dev/icons?i=linux,apple
+ <img src="https://skillicons.dev/icons?i=linux,apple"/>
 </p>
