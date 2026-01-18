@@ -5,18 +5,18 @@ Endlessly curious and forever tinkering, with computers as my favorite playgroun
 
 ---
 
-## 🚀 My tech stack
+## My tech stack
 
-### 🧠 Languages / Frameworks
+### Languages / Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,ejs,express,angular,bootstrap,css
 </p>
 
-### 🛠 Tools
+### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,github,gitlab,vscode,git,npmp>
 
-### 🗄 Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql"✅ Test Automation
 <p>
