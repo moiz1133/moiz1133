@@ -4,7 +4,7 @@
 Endlessly curious and forever tinkering, with computers as my favorite playground.
 
 ---
-
+## My tech stack
 
 ### Languages / Frameworks
 <p>
