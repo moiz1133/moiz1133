@@ -29,5 +29,5 @@ Endlessly curious and forever tinkering, with computers as my favorite playgroun
 
 ### Operating Systems
 <p>
- <img src="https://skillicons.dev/icons?i=linux,apple"/>
+ <img src="https://skillicons.dev/icons?i=linux,windows"/>
 </p>
