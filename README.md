@@ -8,9 +8,9 @@ I build production backend systems, data pipelines, and AI-powered automation. C
 
 ### What I'm working on
 
-- 🔧 **Incident routing platform** — ingests alerts from multiple clients → routes through Loki, Grafana, Tempo, Mimir → automated detection and self-resolution. Reduced manual incident handling from 80% to 13%.
-- 🤖 **Enterprise RAG system** — migrating the company knowledge base for automated query resolution across HR, IT, and operations, with source document citation.
-- 📊 **Production data pipelines** — processing 20M+ daily records with 97% alerting accuracy using Airflow, Grafana, and PostgreSQL.
+-  **Incident routing platform** — ingests alerts from multiple clients → routes through Loki, Grafana, Tempo, Mimir → automated detection and self-resolution. Reduced manual incident handling from 80% to 13%.
+-  **Enterprise RAG system** — migrating the company knowledge base for automated query resolution across HR, IT, and operations, with source document citation.
+-  **Production data pipelines** — processing 20M+ daily records with 97% alerting accuracy using Airflow, Grafana, and PostgreSQL.
 
 ---
 
@@ -52,6 +52,5 @@ Infrastructure   Docker · AWS (EC2, S3, ECS) · Apache Airflow · GitLab CI/CD
 
 ### Let's connect
 
-- 📧 moizasif985@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/abdulmoizasif)
-- 🌍 Open to roles in **Germany** (EU Blue Card eligible), **UAE**, or **Remote (USD)**
+-  moizasif985@gmail.com
+-  [LinkedIn](https://linkedin.com/in/abdulmoizasif)
